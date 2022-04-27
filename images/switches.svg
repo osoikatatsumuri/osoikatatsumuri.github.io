@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 34"><symbol id="ico-smart-reply" viewBox="0 0 44 34">
+ <g transform="translate(-2 -7)" fill="none" fill-rule="evenodd">
+ <path d="M0 0h48v48H0z"/>
+ <rect fill="#3DDC84" x="2" y="7" width="36" height="16" rx="7.583"/>
+ <rect stroke="#4285F4" stroke-width="4" x="12" y="27" width="32" height="12" rx="6"/>
+ </g>
+ </symbol><use xlink:href="#ico-smart-reply" xmlns:xlink="http://www.w3.org/1999/xlink"/></svg>

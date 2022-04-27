@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 42"><symbol id="ico-device-protection" viewBox="0 0 34 42">
+  <defs>
+    <path d="M29.481 0h-19.09a3.83 3.83 0 0 0-3.819 3.818v3.818c0 1.05.86 1.91 1.91 1.91 1.05 0 1.908-.86 1.908-1.91V5.727h19.091v30.546h-19.09v-1.91c0-1.05-.86-1.908-1.91-1.908-1.05 0-1.909.859-1.909 1.909v3.818A3.83 3.83 0 0 0 10.39 42h19.091a3.83 3.83 0 0 0 3.818-3.818V3.818A3.83 3.83 0 0 0 29.481 0z" id="aa"/>
+  </defs>
+  <g fill="none">
+    <use fill="#4285F4" xlink:href="#aa" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <path d="M6.591 23.806l-3.665-3.665a1.717 1.717 0 0 0-2.425 0 1.717 1.717 0 0 0 0 2.424l4.716 4.716a1.901 1.901 0 0 0 2.691 0l11.169-11.168a1.717 1.717 0 0 0 0-2.425 1.717 1.717 0 0 0-2.425 0L6.592 23.806z" fill="#3DDC84"/>
+  </g>
+</symbol><use xlink:href="#ico-device-protection" xmlns:xlink="http://www.w3.org/1999/xlink"/></svg>
